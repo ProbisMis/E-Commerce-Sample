@@ -1,0 +1,8 @@
+C:\Users\Burak\source\repos\Trendyol\Trendyol\bin\Debug\Trendyol.exe.config
+C:\Users\Burak\source\repos\Trendyol\Trendyol\bin\Debug\Trendyol.exe
+C:\Users\Burak\source\repos\Trendyol\Trendyol\bin\Debug\Trendyol.pdb
+C:\Users\Burak\source\repos\Trendyol\Trendyol\obj\Debug\Trendyol.exe
+C:\Users\Burak\source\repos\Trendyol\Trendyol\obj\Debug\Trendyol.pdb
+C:\Users\Burak\source\repos\Trendyol\Trendyol\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Burak\source\repos\Trendyol\Trendyol\obj\Debug\Trendyol.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Trendyol\Trendyol\obj\Debug\Trendyol.csproj.CopyComplete
